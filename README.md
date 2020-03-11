@@ -16,7 +16,7 @@ go to http://127.0.0.1:8000/login and apply them
 ###### CTO --> username : haidercto , password : abc123
 ###### JSE --> username : haiderjunior , password : abc123
 ###### SSE --> username : haiderseniorse , password : abc123
-###### admin --> username: admni , password : admin
+###### admin --> username: admin  , password : admin
 
 
 
