@@ -18,5 +18,10 @@ go to http://127.0.0.1:8000/login and apply them
 ###### SSE --> username : haiderseniorse , password : abc123
 ###### admin --> username: admin  , password : admin
 
+##### To Run this project you need to have installed django latest version and  python3.6.9 or greater version installed
+
+###### go to this add any of the credentials that are mentioned above
+![login](https://github.com/haiderAli62/carporate-social-site/blob/master/Screenshot%20from%202020-03-12%2016-10-56.png)
+
 
 
