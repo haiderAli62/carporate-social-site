@@ -20,8 +20,33 @@ go to http://127.0.0.1:8000/login and apply them
 
 ##### To Run this project you need to have installed django latest version and  python3.6.9 or greater version installed
 
-###### go to this add any of the credentials that are mentioned above
+to signup 
+![signup](https://github.com/haiderAli62/carporate-social-site/blob/master/Screenshot%20from%202020-03-12%2016-48-41.png)
+
+###### go to this and use any of the credentials that are mentioned above
 ![login](https://github.com/haiderAli62/carporate-social-site/blob/master/Screenshot%20from%202020-03-12%2016-10-56.png)
+
+in case you have used ceo credentials
+ceo dashboard
+
+![ceo](https://github.com/haiderAli62/carporate-social-site/blob/master/Screenshot%20from%202020-03-12%2016-11-44.png)
+
+if you click on upload post
+
+![upload](https://github.com/haiderAli62/carporate-social-site/blob/master/Screenshot%20from%202020-03-12%2016-37-01.png)
+
+as a ceo if you click on create users
+
+![createuser](https://github.com/haiderAli62/carporate-social-site/blob/master/Screenshot%20from%202020-03-12%2016-37-01.png)
+
+to logout click on the username on the uper right corner 
+
+![logout](https://github.com/haiderAli62/carporate-social-site/blob/master/Screenshot%20from%202020-03-12%2016-11-44.png)
+
+other users dashboard
+
+![other](https://github.com/haiderAli62/carporate-social-site/blob/master/Screenshot%20from%202020-03-12%2016-12-29.png)
+
 
 
 
